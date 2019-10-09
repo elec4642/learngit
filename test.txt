@@ -1,8 +1,1 @@
-hello world
-smile
-<<<<<<< HEAD
-tpgtpgtpg
-[[[[[[[[[[[[[[[[[[
-=======
-lalalalalalaal
->>>>>>> change_site
+master branch
